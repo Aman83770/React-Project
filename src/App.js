@@ -57,11 +57,11 @@ const Test = ( props ) => {
           <div className="form-row">
             <div className="form-group col-md-6">
               <label >Start Time:</label>
-              <input type="text" className="form-control" name="start_time" placeholder="Start Time" />
+              <input type="time" className="form-control" name="start_time" placeholder="Start Time" />
             </div>
             <div className="form-group col-md-6">
               <label >End Time</label>
-              <input type="text" className="form-control" placeholder="End Time" />
+              <input type="time" className="form-control" placeholder="End Time" />
             </div>
             <div className="form-group col-md-12">
               <label>Description:</label>
