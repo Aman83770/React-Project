@@ -1,5 +1,6 @@
 # React-Project
 
 ## Project Setup
-npm install
-npm start
+#clone the repo
+#npm install
+#npm start
